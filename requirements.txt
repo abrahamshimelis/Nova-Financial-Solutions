@@ -14,7 +14,7 @@ cycler
 cymem
 debugpy
 decorator
-en-core-web-sm
+# en-core-web-sm
 executing
 fonttools
 idna
@@ -48,7 +48,7 @@ prompt-toolkit
 psutil
 pure-eval
 pydantic
-pydantic-core
+pydantic_core
 Pygments
 pyparsing
 python-dateutil
@@ -61,7 +61,6 @@ scipy
 setuptools
 six
 smart-open
-spacy
 spacy-legacy
 spacy-loggers
 srsly
@@ -72,7 +71,7 @@ tornado
 tqdm
 traitlets
 typer
-typing-extensions
+typing_extensions
 tzdata
 urllib3
 wasabi
