@@ -57,6 +57,7 @@ pytz
 pyzmq
 regex
 requests
+scikit-learn
 scipy
 setuptools
 six
@@ -67,6 +68,7 @@ srsly
 stack-data
 textblob
 thinc
+threadpoolctl
 tornado
 tqdm
 traitlets
