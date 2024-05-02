@@ -1,5 +1,7 @@
 annotated-types
+appdirs
 asttokens
+beautifulsoup4
 blis
 catalogue
 certifi
@@ -17,6 +19,8 @@ decorator
 # en-core-web-sm
 executing
 fonttools
+frozendict
+html5lib
 idna
 install
 ipykernel
@@ -29,10 +33,12 @@ jupyter_core
 kiwisolver
 langcodes
 language_data
+lxml
 marisa-trie
 MarkupSafe
 matplotlib
 matplotlib-inline
+multitasking
 murmurhash
 nest-asyncio
 nltk
@@ -40,6 +46,7 @@ numpy
 packaging
 pandas
 parso
+peewee
 pillow
 pip
 platformdirs
@@ -62,6 +69,7 @@ scipy
 setuptools
 six
 smart-open
+soupsieve
 spacy-legacy
 spacy-loggers
 srsly
@@ -79,3 +87,5 @@ urllib3
 wasabi
 wcwidth
 weasel
+webencodings
+yfinance
