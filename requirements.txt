@@ -16,7 +16,6 @@ cycler
 cymem
 debugpy
 decorator
-# en-core-web-sm
 executing
 fonttools
 frozendict
@@ -60,7 +59,6 @@ Pygments
 pyparsing
 python-dateutil
 pytz
-# pywin32
 pyzmq
 regex
 requests
