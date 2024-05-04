@@ -24,6 +24,7 @@ jobs:
         ./configure -prefix=/usr
         make
         sudo make install
+        cd ..
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
